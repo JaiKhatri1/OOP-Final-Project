@@ -1,2 +1,3 @@
 # OOP-Final-Project
-This Python program is designed to manage data for a college that encompasses four departments: Computer Science, Agriculture, Engineering, and Mathematics. 
+
+This Python program is designed to manage data for a college that encompasses four departments: Computer Science, Agriculture, Engineering, and Mathematics. It organizes information about faculty members and students within each department. The program allows users to add new faculty members and students, conduct tests, assign marks, display lists of faculty and students, obtain specific information about individuals, identify Heads of Departments (HODs), and retrieve overall counts of faculty members and enrolled students. This project uses classes to encapsulate data and functionalities for efficient college data management.
